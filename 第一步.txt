@@ -1,0 +1,7 @@
+创建名字：git config --global user.name '724205448'
+创建邮箱：git config --global user.email '724205448@qq.com'
+查询刚才创建的：git config -l
+把当前项目创建为GitHub项目：git init
+这样就可以在这个目录下做一些操作了，比如增删改查文件，这些操作生效就可以链接推送到远端的GitHub账号下面
+如何关联？：git remote add origin https://github.com/724205448/WWF.git
+已关联，现在创建文件夹、创建文件，在GitHub网站账号下也会有相应的修改
